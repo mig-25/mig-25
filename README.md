@@ -1,4 +1,4 @@
-![](path/to/image.png)
+![](images/image.png)
 ### Hi, there 👋
 ## Hi, I´m Sohail 👋
 
