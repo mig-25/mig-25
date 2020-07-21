@@ -1,7 +1,7 @@
-![](images/frontend_magic.png)
+
 ### Hi
 ## I´m Sohail 👋
-
+![](images/frontend_magic.png)
 
 - 🔭 I’m currently working on Portfolio site
 - 🌱 I’m currently learning React, Gatsby, GraphQL and Strapi
