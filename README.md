@@ -1,6 +1,6 @@
 ![](images/frontend_magic.png)
-### Hi, there 👋
-## Hi, I´m Sohail 👋
+### Hi
+## I´m Sohail 👋
 
 
 - 🔭 I’m currently working on Portfolio site
