@@ -1,4 +1,4 @@
-![](images/image.png)
+![](images/frontend_magic.png)
 ### Hi, there 👋
 ## Hi, I´m Sohail 👋
 
